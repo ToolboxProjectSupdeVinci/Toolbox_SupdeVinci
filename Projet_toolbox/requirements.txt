@@ -1,0 +1,7 @@
+nmap
+paramiko
+reportlab
+tkinter
+beautifulsoup4
+requests
+scapy
