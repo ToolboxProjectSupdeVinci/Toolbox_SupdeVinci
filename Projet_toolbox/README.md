@@ -2,16 +2,16 @@
 
 ## Description
 
-Cette toolbox est conçue pour automatiser des tâches courantes de tests d'intrusion, telles que le scan de ports, le brute force SSH/RDP, la recherche DNS, et plus encore.
+Cette toolbox est conçue pour automatiser des tâches courantes de tests d'intrusion, telles que le scan de ports, le brute force SSH, la recherche DNS, et plus encore.
 
 
 ## Fonctionnalités
 
 - Scan de ports avec Nmap
 - Brute force SSH avec Paramiko
-- Brute force RDP avec Impacket
 - Lookup DNS et Reverse DNS
 - Web Crawler
+- Netwoek Scanner
 - Cracker de mot de passe avec John The Ripper
 - Génération de rapports en PDF avec ReportLab
 
