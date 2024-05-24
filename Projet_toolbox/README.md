@@ -11,7 +11,7 @@ Cette toolbox est conçue pour automatiser des tâches courantes de tests d'intr
 - Brute force SSH avec Paramiko
 - Lookup DNS et Reverse DNS
 - Web Crawler
-- Netwoek Scanner
+- Network Scanner
 - Cracker de mot de passe avec John The Ripper
 - Génération de rapports en PDF avec ReportLab
 
